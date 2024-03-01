@@ -36,7 +36,7 @@ You need to be able to work in a Jupyter Notebook on your computer. The followin
 You will need to download StackOverflow’s 2023 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). 
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](). 
+The post containing the primary results of the code can be found on my [Medium page](https://medium.com/be-a-learner/unveiling-the-data-which-programming-language-and-ai-tools-will-you-choose-to-start-your-career-76b51bd151af). 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to StackOverflow for the data. You can find the Licensing for the data and other descriptive information at the StackOverflow link available [here](https://insights.stackoverflow.com/survey).
