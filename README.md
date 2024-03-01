@@ -11,10 +11,10 @@
 - [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Introduction <a name="introduction"></a>
-This dataset is sourced from [Stack Overflow](https://insights.stackoverflow.com/survey). In May 2023, more than 90,000 developers participated in the annual Stack Overflow survey, sharing insights on their learning and development journey, preferred tools, and future aspirations.
+This dataset is sourced from [StackOverflow](https://insights.stackoverflow.com/survey). In May 2023, more than 90,000 developers participated in the annual StackOverflow survey, sharing insights on their learning and development journey, preferred tools, and future aspirations.
 
 ## Business Understanding <a name="business"></a>
-In this notebook, I want to use the Stack Overflow 2023 dataset to find some insight between Asian Countries and the United States. Since I just started learning to code about half a year ago, I want to know which languages and AI tools are more popular.
+In this notebook, I want to use the StackOverflow 2023 dataset to find some insight between Asian Countries and the United States. Since I just started learning to code about half a year ago, I want to know which languages and AI tools are more popular.
 
 There will be three questions I will seek to answer to get this information:
 
@@ -33,10 +33,10 @@ You need to be able to work in a Jupyter Notebook on your computer. The followin
 - Seaborn
 - jupyterthemes
 
-You will need to download Stack Overflow’s 2023 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). 
+You will need to download StackOverflow’s 2023 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). 
 
 ## Results <a name="results"></a>
 The main findings of the code can be found at the post available [here](). 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
+Must give credit to StackOverflow for the data. You can find the Licensing for the data and other descriptive information at the StackOverflow link available [here](https://insights.stackoverflow.com/survey).
